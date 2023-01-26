@@ -1,0 +1,29 @@
+__pycache__
+/dummies
+/synthesized
+/logs
+*.log
+
+build
+*.c
+*.so
+monotonic_align/monotonic_align
+
+*.tar
+*.pth
+*.pt
+
+# temporarily
+tmp*
+Untitled*
+
+# for origin
+vits
+*.egg-info
+
+# # For setup
+# configs
+# vits/monotonic_align/monotonic_align
+# preprocess*
+# train*
+# run*
