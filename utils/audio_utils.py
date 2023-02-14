@@ -6,7 +6,7 @@ import torch
 import torch.nn.functional as F
 import numpy as np
 import os
-from .__init__ import to_float_tensor
+from utils import to_float_tensor
 from typing import Tuple
 
 
